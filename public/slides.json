@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Find Your Dream Home",
+    "description": "We provide the best real estate services to help you find your dream house.",
+    "image": "https://i.ibb.co.com/2dmj5pq/indian-city-buildings-scene-1.jpg",
+    "button1Text": "Our Services",
+    "button2Text": "Learn More"
+  },
+  {
+    "id": 2,
+    "title": "Luxury Apartments",
+    "description": "Discover high-end apartments in prime locations for luxury living.",
+    "image": "https://i.ibb.co.com/gmYhVN7/80575.jpg",
+    "button1Text": "View Apartments",
+    "button2Text": "Get Started"
+  },
+  {
+    "id": 3,
+    "title": "Commercial Spaces",
+    "description": "Find the best commercial properties to grow your business with us.",
+    "image": "https://i.ibb.co.com/gmVZdCw/building.jpg",
+    "button1Text": "Explore Spaces",
+    "button2Text": "Contact Us"
+  }
+]
+ 
+ 
+ 
